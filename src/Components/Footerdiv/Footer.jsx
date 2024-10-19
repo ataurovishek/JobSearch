@@ -36,7 +36,7 @@ const Footer = () => {
                 <span className="divTitle text-[18px] font-semibold pb-[1.5rem] text-white">Contact Info</span>
                 <div>
                     <small className="text-[14px] text-white">
-                        isratech@outlook.com
+                       ataurovishek@outlook.com
                     </small>
                     <div className="icons flex gap-4 py-[1rem]">
                         <AiFillInstagram className="bg-white p-[8px] h-[35px] w-[35px] rounded-full icon text-blueColor"/>
